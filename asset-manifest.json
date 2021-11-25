@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://preethasri.github.io/csb-1orgi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://preethasri.github.io/csb-1orgi/static/js/main.0e13d1ad.chunk.js",
+    "main.js.map": "https://preethasri.github.io/csb-1orgi/static/js/main.0e13d1ad.chunk.js.map",
+    "runtime-main.js": "https://preethasri.github.io/csb-1orgi/static/js/runtime-main.3055c7ee.js",
+    "runtime-main.js.map": "https://preethasri.github.io/csb-1orgi/static/js/runtime-main.3055c7ee.js.map",
+    "static/js/2.de5c1bf5.chunk.js": "https://preethasri.github.io/csb-1orgi/static/js/2.de5c1bf5.chunk.js",
+    "static/js/2.de5c1bf5.chunk.js.map": "https://preethasri.github.io/csb-1orgi/static/js/2.de5c1bf5.chunk.js.map",
+    "index.html": "https://preethasri.github.io/csb-1orgi/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://preethasri.github.io/csb-1orgi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.de5c1bf5.chunk.js.LICENSE.txt": "https://preethasri.github.io/csb-1orgi/static/js/2.de5c1bf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3055c7ee.js",
+    "static/js/2.de5c1bf5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0e13d1ad.chunk.js"
+  ]
+}
